@@ -1,16 +1,47 @@
-# todaytodo_app
+# todaytodo App
 
-A new Flutter project.
+### A Flutter app that displays a birthday card
 
-## Getting Started
+## Table of contents
+* [General info](#general-info)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Learnings](#learnings)
+* [Installation](#installation)
+* [Dependencies](#dependencies)
+* [Usage](#usage)
 
-This project is a starting point for a Flutter application.
+## General info
+This is a simple Flutter application implementing a Flutter basics by doing this playlist 
+![
+برمجة تطبيق موبايل لإدارة المهام مع فلاتر Flutter #7
+]([https://www.youtube.com/playlist?list=PLw6Y5u47CYq47-FrlJws-15rVO2tv_uTq]) by ![AmmarAlkhatib](https://www.youtube.com/@AmmarAlkhatib).
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features: 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## Screenshots
+<img src="https://github.com/AGreynoon/todaytodo_app/blob/main/screenshots/Screenshot_01.png" width="300" height="600"/> <img src="https://github.com/AGreynoon/todaytodo_app/blob/main/screenshots/Screenshot_02.png" width="300" height="600"/>
+<img src="https://github.com/AGreynoon/todaytodo_app/blob/main/screenshots/Screenshot_03.png" width="300" height="600"/> <video width="300" height="600" controls="controls"><source src="https://github.com/AGreynoon/todaytodo_app/blob/main/screenshots/Screenshot_04.mp4" type="video/mp4" /></video>
+
+	
+## Learnings
+During this project, I focused on practicing the following Flutter concepts:
+
+
+## Installation:
+1. Clone this repository.
+2. Ensure you have Flutter installed (https://docs.flutter.dev/get-started/install).
+3. Run `flutter pub` get to install dependencies.
+
+
+## Dependencies:
+This project uses the `provider` package for...
+
+
+## Usage:
+* Run `flutter run` to launch the app on your device or simulator.
+
