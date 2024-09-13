@@ -1,6 +1,6 @@
 # todaytodo App
 
-### A Flutter app that displays a birthday card
+### A mobile application designed for adding and managing daily tasks.
 
 ## Table of contents
 * [General info](#general-info)
